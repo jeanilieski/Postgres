@@ -10,8 +10,7 @@
 
 -- include as not achievable all commission renegotiation opportunities where contract start date is less than 3 months ago
 
---DROP TABLE dwh_st.natalia_achievable_opportunities
---CREATE TABLE dwh_st.natalia_achievable_opportunities AS(
+
 
 SELECT * FROM (
 
