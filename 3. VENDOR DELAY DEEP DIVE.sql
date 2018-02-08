@@ -281,9 +281,9 @@ SELECT
 
 
 --SELECT * FROM crm.et_sendJobs 
---WHERE (subject = 'Hyv‰ ruoka tekee onnelliseksi - ja meill‰ on tarjota sinulle erinomainen diili.'
+--WHERE (subject = 'Hyv√§ ruoka tekee onnelliseksi - ja meill√§ on tarjota sinulle erinomainen diili.'
 --
---OR subject = 'Her kommer et smakfullt tilbud som vil gj¯re deg god og mett!')
+--OR subject = 'Her kommer et smakfullt tilbud som vil gj√∏re deg god og mett!')
 --
 --;
 --
